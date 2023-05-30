@@ -1,0 +1,2 @@
+from funcoes_auxiliares.calculo import soma_com_valor_aleatorio
+from funcoes_auxiliares.geradores_aleatorios import gerador_de_letra, gerador_de_numero
